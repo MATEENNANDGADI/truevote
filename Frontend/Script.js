@@ -1,5 +1,4 @@
 // Global Variables
-let a;
 let web3;
 let votingContract;
 let accounts = [];
