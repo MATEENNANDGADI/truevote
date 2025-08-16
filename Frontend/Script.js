@@ -2,7 +2,7 @@
 let web3;
 let votingContract;
 let accounts = [];
-const contractAddress = "0x117F2ca105A9872fD9d756e8a6E2f620F853C725"; // Your contract address
+const contractAddress = "0x03B136991598b7441390395c0b470149d71AD2cB"; // Your contract address
 
 // Initialize Application
 document.addEventListener('DOMContentLoaded', async () => {
