@@ -6,3 +6,7 @@ int r =87;
 
 int z = 88;
 
+int main() {
+    int result = c + d - r + z;
+    return result;
+}
